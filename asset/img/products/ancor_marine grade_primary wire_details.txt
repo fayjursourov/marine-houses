@@ -1,0 +1,12 @@
+<ul class="a-vertical a-spacing-none">
+					
+					
+						<li><span class="a-list-item"> Manufactured from individual copper strands and tinned to perform in the harshest marine environments.</span></li>
+					
+						<li><span class="a-list-item"> Ultra-flexible Type 3 stranding resists fatigue from vibration and provides added corrosion protection.</span></li>
+					
+						<li><span class="a-list-item"> Exceeds all UL 1426, US Coast Guard Charter boat  (CFR title 46) and ABYC standards</span></li>
+					
+						<li><span class="a-list-item"> They are constructed with premium vinyl insulation that is rated at 600 volts, 105 deg C dry and 75 deg C wet, stays flexible even in extreme cold (-40 deg F/C) and resists salt water, battery acid, oil, gasoline, heat, abrasion and ultra-violet radiation.</span></li>
+					
+				</ul>
