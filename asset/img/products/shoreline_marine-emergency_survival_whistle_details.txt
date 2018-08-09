@@ -1,0 +1,14 @@
+<ul class="a-vertical a-spacing-none">
+
+
+						<li><span class="a-list-item"> Meets United states Coast guard standards for watercraft safety</span></li>
+
+						<li><span class="a-list-item"> A safety essential is a must-have for any personal watercraft</span></li>
+
+						<li><span class="a-list-item"> 3.5 oz. Small Size</span></li>
+
+						<li><span class="a-list-item"> Non-flammable air horns</span></li>
+
+						<li><span class="a-list-item"> Great for many uses: graduation and sporting events</span></li>
+
+				</ul>

@@ -1,0 +1,23 @@
+<ul class="a-vertical a-spacing-none">
+					
+						
+
+
+
+<script type="text/javascript">
+    P.when("ReplacementPartsBulletLoader").execute(function(module){ module.initializeDPX(); })
+</script>
+
+					
+					
+						<li><span class="a-list-item"> Adjustable shoulder/chest straps. Will fit chest sizes from teenagers/kids with 27" up to adults (men and women) with 50" chest size. The chest straps make sure it doesn't bounce when you move; Whistle buckle for emergency</span></li>
+					
+						<li><span class="a-list-item"> Rugged 600 Denier Polyester heavy-duty construction with PVC lining, resistant to tears and abrasion; Hands-free hydration hose with bite valve, gently biting the valve opens up the flow of water</span></li>
+					
+						<li><span class="a-list-item"> REPLACEABLE 2.5L BLADDER: Includes a 2.5 Liter BPA free bladder which keeps you hydrated. It also keeps the water fairly cool. And include a wide screw cap so you can add ice cubes for an even cooler drink. Enough to get you through a day of hiking, cycling, running or biking</span></li>
+					
+						<li><span class="a-list-item"> Sleek and compact design: 19" x 10" x 1.5" in size and 22 ounces in weight; Two front pockets for carry your wallet, keys, phone, towel, smalltool, perfect for hiking, running, biking, walking</span></li>
+					
+						<li><span class="a-list-item"> 60 Day 100% Satisfaction Guarantee:If for any reason you are not 100% satisfied with this product, please contact customer service within 60 days, and we will immediately refund your purchase price - no questions asked.</span></li>
+					
+				</ul>

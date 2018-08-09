@@ -1,0 +1,44 @@
+<div id="feature-bullets" class="a-section a-spacing-medium a-spacing-top-small">
+	
+		
+			
+                               <ul class="a-vertical a-spacing-none">
+					
+						
+
+
+
+
+
+<script type="text/javascript">
+    P.when("ReplacementPartsBulletLoader").execute(function(module){ module.initializeDPX(); })
+</script>
+
+					
+					
+						<li><span class="a-list-item"> Single Circuit ON-OFF with Key. Switches a single battery to a single load group</span></li>
+					
+						<li><span class="a-list-item"> Ignition protected-safe for installation aboard gasoline powered boats</span></li>
+					
+						<li><span class="a-list-item"> IP66 waterproof, ISO 8846 and meets ABYC requirements</span></li>
+					
+						<li><span class="a-list-item"> Make before break contact design allows switching between battery banks without power interruption</span></li>
+					
+						<li><span class="a-list-item"> Continuous Rating: 300A, Maximum Voltage: 48V DC</span></li>
+					
+				</ul>
+				<!--  Loading EDP related metadata -->
+                
+                 	
+               
+               
+			
+			
+		
+
+		
+
+		
+
+	
+</div>

@@ -1,0 +1,27 @@
+
+
+
+
+				<ul class="a-vertical a-spacing-none">
+
+
+
+
+
+                <script type="text/javascript">
+                    P.when("ReplacementPartsBulletLoader").execute(function(module){ module.initializeDPX(); })
+                </script>
+
+
+
+                						<li><span class="a-list-item"> LIGHT WEIGHT AND DURABLE-Made from superior durable lightweight aircraft aluminum material .More durable,really light and solid </span></li>
+
+                						<li><span class="a-list-item">NICE for CONNECTING THINGS - The locking carabiner keychain features a spring loaded gate which allows them to be quickly and securely attached to a wide range of fixing points . Perfect for affixing items on a pack OR your belt ,Each of carabiner measures 2.95" x 1.57"(Approx).The carabiners themselves are small, but they work well. Sometimes smaller carabiners are more helpful than the larger ones</span></li>
+
+                						<li><span class="a-list-item">STYLISH DESIGN - Metal finish is good.NORTHERN BROTHERS logo on the surface,QUALITY GUARANTEE! Very eye-catching in daily life use . It is not recommended to be used in mountaineering, rock climbing, ice climbing and high-altitude games for your safety</span></li>
+
+                						<li><span class="a-list-item">WIDE RANGE APPLICATIONS -Used for daily life, attached to the EDC/Camping/Hiking backpack, handbag, or use as a keyring.Free your hands!Notice: Not for climbing use,There are countless ways this product can be used and it is essential to anyone that is traveling , can be used as a handle or hanger, dozens of uses around the home, RV or boat, very practical and convenient for daily life.</span></li>
+
+                						<li><span class="a-list-item">OUR GUARANTEE: If for any reason you are not 100% satisfied with your Northern Brothers D-ring Locking, please let us know and we will immediately refund your purchase price - no questions asked.</span></li>
+
+                				</ul>

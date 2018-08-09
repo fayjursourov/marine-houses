@@ -1,0 +1,29 @@
+<div itemprop="description" class="top_info">
+					This well-engineered fish finder is sure to give you a great fishing experience with its reliable and stable performance. This versatile device features both wireless and transducer modes for your different needs. The casing is waterproof and sturdily constructed for extended durability.
+<ul>
+	<li>Waterproof and well-constructed casing.</li>
+	<li>Two operating modes: wireless and transducer.</li>
+	<li>Shows true changing of water bottom contour.</li>
+	<li>User selectable meter or feet readings.</li>
+	<li>Display: large in size, adjustable, high-contrast, dot matrix, 4 levels, grayscale, FSTN, LCD, 132V x 132H.</li>
+	<li>Depth capability: cable transducer: 300 feet (100m), wireless: 140 feet (40m).</li>
+	<li>Sonar coverage: 45 degrees at 200kHz, 90 degrees at 125kHz.</li>
+	<li>Display size: 41W x 48H.</li>
+	<li>Back lighting: on/off white LED.</li>
+	<li>Wireless sensor frequency: 125kHz sonar frequency.</li>
+	<li>Temperature unit: Celsius/Fahrenheit.</li>
+	<li>Wireless operational range: 540 feet (180 meters).</li>
+	<li>Power requirement: 3.7V rechargeable alkaline batteries.</li>
+	<li>Battery strength indicator.</li>
+	<li>Sensitivity level setting.</li>
+	<li>Clear fish icon and fish alarm.</li>
+	<li>Water temperature indicator.</li>
+	<li>Waterproof rating: IP7 (waterproof).</li>
+	<li>Memory: built-in memory stores sonar setting when the unit is turned off.</li>
+	<li>W-sensor could be shut down when it is out of the water.</li>
+	<li>W-sensor battery requirements: one replaceable CR-2032 lithium battery.</li>
+	<li>Operational temperature: -4°F to 158°F (-20°C-70°C).</li>
+	<li>Suitable for regular and ice fishing.</li>
+</ul>
+
+				</div>

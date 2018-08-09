@@ -1,0 +1,14 @@
+<ul class="a-vertical a-spacing-none">
+					
+					
+						<li><span class="a-list-item"> 100% Accurate Real-Time GPS Tracking</span></li>
+					
+						<li><span class="a-list-item"> $25 a month | No Activation Fees | No Contracts | No Cancellation Fees</span></li>
+					
+						<li><span class="a-list-item"> E-mail and Text Message Alerts | Speed, Geo-Fence, Battery and MORE</span></li>
+					
+						<li><span class="a-list-item"> 1 Full Year of Historical Data Saved to Cloud</span></li>
+					
+						<li><span class="a-list-item"> Up to 2 week Battery life</span></li>
+					
+				</ul>

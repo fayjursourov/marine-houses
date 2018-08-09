@@ -1,0 +1,26 @@
+<div id="feature-bullets" class="a-section a-spacing-medium a-spacing-top-small">
+	
+		
+			
+                               <ul class="a-vertical a-spacing-none">
+					
+					
+						<li><span class="a-list-item"> NEW</span></li>
+					
+						<li><span class="a-list-item"> COBRA ELECTRONICS</span></li>
+					
+						<li><span class="a-list-item"> MR HH350 FLT A</span></li>
+					
+				</ul>
+				<!--  Loading EDP related metadata -->
+                
+                 	
+               
+               
+			
+			
+
+		
+
+	
+</div>

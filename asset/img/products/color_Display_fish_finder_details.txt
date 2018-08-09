@@ -1,0 +1,11 @@
+<div itemprop="description" class="top_info">
+					Improve your fishing experience and success on the water using this fishfinder. This advanced fishfinder offers tow operating modes – wireless and transducer – to suit all your fishing needs. The color display gives the best viewing in any boating condition.<br>
+<ul>
+    <li>Compact casing designed for handheld use.</li>
+    <li>Color display gives the best viewing.</li>
+    <li>Two operating modes: wireless and transducer.</li>
+    <li>Wireless operational range: 60m.</li>
+    <li>Powered by rechargeable battery.</li>
+    <li>Replaceable battery for wireless sonar.</li>
+</ul>
+				</div>

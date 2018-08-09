@@ -1,0 +1,11 @@
+<div itemprop="description" class="top_info">
+					Make fishing more fun and enjoyable with this fishfinder. This Lucky WiFi Fish Finder operates using sonar technology. The WiFi transducer sends out a sound wave signal while the returned "echoes" are transmitted to any digital device via WiFi connection. With this fishfinder, you can easily find out important information regarding the underwater depth, water temperature, bottom contour, fish location and depth.<br>
+<ul>
+    <li>Operates using sonar technology.</li>
+    <li>WiFi transducer sends out sound wave signal.</li>
+    <li>Transmits returned "echoes" to digital device via WiFi connection.</li>
+    <li>Locates fish and underwater depth.</li>
+    <li>Records water temperature and bottom contour.</li>
+    <li>Compatible with iPhone, iPad and other intelligent devices.</li>
+</ul>
+				</div>

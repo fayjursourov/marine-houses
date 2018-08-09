@@ -1,0 +1,33 @@
+
+
+<script type="text/javascript">
+    P.when("ReplacementPartsBulletLoader").execute(function(module){ module.initializeDPX(); })
+</script>
+
+					
+					
+						<li><span class="a-list-item"> Get on plane faster/improve fuel efficiency</span></li>
+					
+						<li><span class="a-list-item"> Eliminate proposing and chine walking</span></li>
+					
+						<li><span class="a-list-item"> Quick installation (under an hour)</span></li>
+					
+						<li><span class="a-list-item"> Durable spring action system</span></li>
+					
+						<li><span class="a-list-item"> For 14' - 18' boats</span></li>
+					
+				</ul>
+				<!--  Loading EDP related metadata -->
+                
+                 	
+               
+               
+			
+			
+		
+
+		
+
+
+	
+</div>

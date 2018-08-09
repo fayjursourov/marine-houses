@@ -1,0 +1,10 @@
+<ul class="a-vertical a-spacing-none">
+					
+					
+						<li><span class="a-list-item"> NEW</span></li>
+					
+						<li><span class="a-list-item"> Ritchie</span></li>
+					
+						<li><span class="a-list-item"> FN-201 A</span></li>
+					
+				</ul>
